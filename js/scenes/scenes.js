@@ -21,6 +21,7 @@ export default () => {
          { name: "DemoNoisyCube"  , path: "./demoNoisyCube.js"  },
          { name: "DemoZoom"       , path: "./demoZoom.js"       },
          { name: "DemoDesktopHand", path: "./demoDesktopHand.js"},
+         { name: "weiqi"   , path: "./weiqi.js"    },
       ]
    };
 }
